@@ -1,0 +1,17 @@
+record_id,age_group,region,monthly_income,actual,predicted,second_model_prediction
+001,18-25,North,22000,Approved,Approved,Approved
+002,18-25,South,18000,Rejected,Approved,Rejected
+003,18-25,East,25000,Approved,Approved,Approved
+004,18-25,West,21000,Rejected,Approved,Rejected
+005,26-40,North,42000,Approved,Approved,Approved
+006,26-40,South,38000,Rejected,Rejected,Rejected
+007,26-40,East,51000,Approved,Approved,Approved
+008,26-40,West,47000,Rejected,Approved,Rejected
+009,41-60,North,65000,Approved,Rejected,Approved
+010,41-60,South,72000,Approved,Approved,Approved
+011,41-60,East,59000,Rejected,Rejected,Rejected
+012,41-60,West,68000,Rejected,Approved,Rejected
+013,60+,North,31000,Rejected,Rejected,Rejected
+014,60+,South,29000,Approved,Rejected,Approved
+015,60+,East,33000,Rejected,Rejected,Rejected
+016,60+,West,35000,Approved,Approved,Approved
